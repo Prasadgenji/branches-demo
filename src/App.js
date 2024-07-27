@@ -1,4 +1,5 @@
-
+import Attendance from "./Attendance";
+import Classes from "./Classes";
 
 
 function App() {
@@ -6,6 +7,8 @@ function App() {
     <>
       <h1>
         KodNest App
+        <Classes />
+        <Attendance />
       </h1>
     </>
   );
