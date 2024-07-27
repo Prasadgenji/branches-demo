@@ -6,9 +6,10 @@ function App() {
     <>
       <h1>
         KodNest App
+        
+        <Teachers />
         <Classes />
         <Attendance />
-        <Teachers />
       </h1>
     </>
   );
