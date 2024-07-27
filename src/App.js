@@ -8,6 +8,7 @@ function App() {
         KodNest App
         <Classes />
         <Attendance />
+        <Teachers />
       </h1>
     </>
   );
